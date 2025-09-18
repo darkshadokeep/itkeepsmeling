@@ -1,0 +1,127 @@
+[
+  {
+    "nombre": "Benetton Sisterland Blue",
+    "precio": 22,
+    "descripcion": "Una brisa acuática y vibrante que captura la esencia de la hermandad y la libertad. Perfecta para el día a día."
+  },
+  {
+    "nombre": "Benetton Sisterland Pink",
+    "precio": 22,
+    "descripcion": "Un estallido floral y dulce que celebra la amistad femenina. Un aroma radiante, juguetón y lleno de alegría."
+  },
+  {
+    "nombre": "Benetton Colors Intense",
+    "precio": 20,
+    "descripcion": "Una explosión de fragancia audaz y enérgica que celebra la diversidad y la fuerza, dejando una huella inolvidable."
+  },
+  {
+    "nombre": "Benetton Colors Woman Rose",
+    "precio": 20,
+    "descripcion": "La elegancia atemporal de la rosa capturada en una fragancia moderna y femenina. Un toque de sofisticación para cualquier ocasión."
+  },
+  {
+    "nombre": "Shakira Dance",
+    "precio": 20,
+    "descripcion": "Un ritmo exótico y sensual que te invita a bailar. Una fragancia vibrante con un corazón floral y un fondo adictivo."
+  },
+  {
+    "nombre": "Shakira Fucsia",
+    "precio": 20,
+    "descripcion": "La energía y pasión del fucsia en un aroma magnético y femenino. Una declaración de confianza y alegría de vivir."
+  },
+  {
+    "nombre": "Shakira Rojo",
+    "precio": 20,
+    "descripcion": "La esencia de la seducción en un aroma intenso y apasionado. Una fragancia audaz para la mujer que no teme destacar."
+  },
+  {
+    "nombre": "Britney Spears Believe",
+    "precio": 25,
+    "descripcion": "Una mezcla encantadora y optimista de frutas exóticas y flores delicadas. Cree en la magia de tus sueños con cada gota."
+  },
+  {
+    "nombre": "Britney Spears Hidden Fantasy",
+    "precio": 25,
+    "descripcion": "Un viaje a un mundo secreto de seducción y misterio. Notas de cereza oscura y vainilla para un encanto irresistible."
+  },
+  {
+    "nombre": "Guess Los Angeles",
+    "precio": 25,
+    "descripcion": "El glamour y la vibrante energía de Los Ángeles en una botella. Una fragancia chic y soleada para la mujer moderna."
+  },
+  {
+    "nombre": "Guess by Marciano",
+    "precio": 25,
+    "descripcion": "Una declaración de lujo y sofisticación atemporal. Un aroma cálido y envolvente con un toque de glamour inconfundible."
+  },
+  {
+    "nombre": "Guess Woman",
+    "precio": 25,
+    "descripcion": "La esencia de la feminidad moderna: segura y elegante. Una fragancia floral frutal que captura el espíritu audaz de Guess."
+  },
+  {
+    "nombre": "Oscar de la Renta SO",
+    "precio": 25,
+    "descripcion": "Pura elegancia y sofisticación clásica. Un bouquet floral atemporal que envuelve la piel con un aura de lujo y feminidad."
+  },
+  {
+    "nombre": "Agatha Ruiz de la Prada Look Fun",
+    "precio": 25,
+    "descripcion": "Una explosión de alegría y color. Una fragancia cítrica y divertida diseñada para llenar tus días de optimismo y energía."
+  },
+  {
+    "nombre": "Agatha Ruiz de la Prada Look Red",
+    "precio": 25,
+    "descripcion": "La versión más atrevida y apasionada de la diversión. Un aroma frutal y vibrante que te invita a jugar y a destacar."
+  },
+  {
+    "nombre": "Agatha Ruiz de la Prada Beso",
+    "precio": 25,
+    "descripcion": "Un beso dulce y tierno convertido en fragancia. Notas suaves y acarameladas para un aroma romántico, íntimo y profundamente femenino."
+  },
+  {
+    "nombre": "Rasasi Hawas Eclat",
+    "precio": 50,
+    "descripcion": "Lujo y resplandor en una esencia oriental moderna. Proyecta poder, éxito y un magnetismo inigualable con este aroma acuático amaderado."
+  },
+  {
+    "nombre": "Halloween Bliss",
+    "precio": 35,
+    "descripcion": "Un elixir de felicidad y encanto etéreo. Un floral oriental que te transporta a un mundo de ensueño y alegría serena."
+  },
+  {
+    "nombre": "Halloween Blossom",
+    "precio": 27,
+    "descripcion": "La explosión de la primavera en una fragancia floral y radiante. Celebra la belleza de los nuevos comienzos con este aroma fresco."
+  },
+  {
+    "nombre": "Armaf Le Parfait",
+    "precio": 22,
+    "descripcion": "La elegancia masculina perfectamente equilibrada. Una composición aromática y especiada que define al hombre moderno, sofisticado y seguro de sí mismo."
+  },
+  {
+    "nombre": "Armaf Club de nuit Woman",
+    "precio": 30,
+    "descripcion": "La esencia de una noche inolvidable. Un chipre floral opulento y audaz, para una mujer que domina la escena con confianza."
+  },
+  {
+    "nombre": "Salvatore Ferragamo Signorina",
+    "precio": 40,
+    "descripcion": "La elegancia chic del estilo italiano. Una fragancia floral y afrutada, sofisticada pero con un toque fresco y juguetón."
+  },
+  {
+    "nombre": "Dolce Gabbana Light Blue Summer vibes",
+    "precio": 40,
+    "descripcion": "La brisa del Mediterráneo en un día de verano. Una edición limitada fresca y vibrante que captura la alegría de la estación."
+  },
+  {
+    "nombre": "Coach New York Wild Rose",
+    "precio": 45,
+    "descripcion": "La belleza audaz de una rosa silvestre en un prado soleado. Un aroma floral amaderado que combina delicadeza con espíritu libre."
+  },
+  {
+    "nombre": "Antonio Banderas Queen",
+    "precio": 20,
+    "descripcion": "El poder de la seducción en un aroma magnético y carismático. Una fragancia para la reina de su propio universo."
+  }
+]
